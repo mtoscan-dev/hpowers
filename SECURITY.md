@@ -2,7 +2,7 @@
 
 ## Scope
 
-Hermespowers is a Hermes Agent plugin. Security review covers the plugin loader,
+Hpowers is a Hermes Agent plugin. Security review covers the plugin loader,
 bundled executable scripts, the visual companion server, and any dependency
 introduced for those components.
 

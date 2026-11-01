@@ -1,6 +1,6 @@
 .worktrees/
 .private-journal/
-.superpowers/
+.hpowers/
 .DS_Store
 node_modules/
 inspo

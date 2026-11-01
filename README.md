@@ -1,6 +1,6 @@
-# Hermespowers
+# Hpowers
 
-Hermespowers is **Superpowers for Hermes Agent**: a Hermes-native plugin that
+Hpowers is **Hpowers for Hermes Agent**: a Hermes-native plugin that
 registers a library of engineering skills and injects a workflow bootstrap at
 the beginning of a session.
 
@@ -11,7 +11,7 @@ agent runtimes.
 ## What it provides
 
 - Native registration of every bundled `skills/*/SKILL.md` through Hermes.
-- A first-turn bootstrap that makes the `using-superpowers` workflow available
+- A first-turn bootstrap that makes the `using-hpowers` workflow available
   without manual setup per session.
 - Reusable workflows for discovery, planning, debugging, testing, review, and
   delivery.
@@ -23,7 +23,7 @@ agent runtimes.
 Install from the repository:
 
 ```bash
-hermes plugins install mtoscan-dev/hermespowers --enable
+hermes plugins install mtoscan-dev/hpowers --enable
 ```
 
 Restart an active Hermes session after installation. Hermes has no
